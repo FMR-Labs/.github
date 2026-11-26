@@ -6,9 +6,11 @@ Free VST3 plugins for guitarists, built around small neural networks that run in
 > **Explore. Craft. Find. Enjoy your own sound!**
 
 <p align="center">
-  <img alt="Neural Preamp" title="Neural Preamp" src="docs/neuralpreamp.png">
-  <img alt="Neural Preamp" title="Neural Preamp" src="docs/rodentbuster.png">
-  <img alt="Neural Preamp" title="Neural Preamp" src="docs/tapewriter.png">
+  <img alt="Neural Preamp" title="Neural Preamp" src="docs/neuralpreamp.png" width=600>
+</p>
+<p align="center">
+  <img alt="Neural Preamp" title="Neural Preamp" src="docs/rodentbuster.png" width=200>
+  <img alt="Neural Preamp" title="Neural Preamp" src="docs/tapewriter.png" width=200>
 </p>
 
 
